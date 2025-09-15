@@ -21,7 +21,7 @@
 ⚙️ Installation & Setup
   
   1. Clone Repository
-   ->git clone [(https://github.com/G-Naveen-Reddy/Real-Time_Order_Tracking_System].git
+   ->git clone https://github.com/G-Naveen-Reddy/Real-Time_Order_Tracking_System.git
    ->cd Real-Time-Orders
 
   2. Install Dependencies
